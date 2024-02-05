@@ -34,5 +34,5 @@ An e-commerce web application built using HTML, CSS, Bootstrap, and JavaScript. 
 
 ## ✍️ Author
 
-- 👤 [@Shubham Jadhav](https://github.com/shubhamj-26)
+- 👤 [@Shubham Jadhav](https://github.com/pranavjadhavps)
 
